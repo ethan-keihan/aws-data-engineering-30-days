@@ -1,0 +1,6 @@
+customer_id,name,total_spent,order_count
+3,Charlie,630,2
+1,Alice,420,2
+4,Diana,295,2
+2,Bob,180,1
+5,Eric,90,1
